@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+div.pagetitle {
+  width: 45%;
+  margin-left: 25%;
+  padding: 1% 2% 1% 1%;
+  font-family: 'Roboto';
+  text-align: justify;
+  color: rgb(83, 88, 94);
+  letter-spacing: 2px;
+  line-height: 15px;
+  
+}
+
+h3.author {
+  font-size: 95%;
+}
+
+
+#content {
+  
+  width: 45%;
+  margin-left: 25%;
+  margin-bottom: 40px;
+  padding: 2% 2% 2% 2%;
+  text-align: left;
+  font-family: 'Roboto';
+  color : rgb(83, 88, 94);
+  white-space: pre-line;
+ font-size: 90%;
+line-height: 150%;
+background: #ffffff;
+}
+
+
+img.recipe {
+  width: 100%;
+}
+
+#div_ingredients { 
+  width: 45%;
+  margin-left: 25%;
+  margin-bottom: 40px;
+  padding: 2% 2% 2% 2%;
+  text-align: left;
+  font-family: 'Roboto';
+  color : rgb(83, 88, 94);
+  background: #ffffff;
+  font-size: 90%;
+  white-space: pre-line;
+  line-height: 200%;
+}
+
+img.ingredient_icon {
+  width: 40px;
+  height: 40px;
+}
+
+#div_instructions {
+  
+  width: 45%;
+  margin-left: 25%;
+  margin-bottom: 100px;
+  padding: 2% 2% 2% 2%;
+  text-align: left;
+  font-family: 'Roboto';
+  color: rgb(83, 88, 94);
+  background: #ffffff;
+  font-size: 90%;
+  white-space: pre-line;
+  line-height: 150%;
+	
+}
+
+img.instructions_icon {
+  width: 40px;
+  height: 40px;
+}

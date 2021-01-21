@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+form.sign_up{
+    display: inline-block;
+    width: 40%;
+    margin: 2.5%;
+    background-color: rgb(166, 156, 146, 0.3);
+}
+
+form.login{
+    display: inline-block;
+    width: 40%;
+    margin: 2.5%;
+    background-color: rgb(166, 156, 146, 0.3);
+}
+
+input {
+    margin-top: 15px;
+}
+
+  
+button {
+    display: inline-block;
+    color: #665F59;
+    margin-top: 10px;
+    background-color: transparent;
+    border-color: #E4DACF;
+}
